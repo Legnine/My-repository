@@ -1,2 +1,2 @@
-# My-repository
+# Scratch games
 Just for testing :)
