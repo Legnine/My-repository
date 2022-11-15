@@ -1,2 +1,2 @@
-# Scratch games
-Just for testing :)
+# NP ++ Download
+Off-site download
